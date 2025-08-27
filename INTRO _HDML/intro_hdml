@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+<META charset="UTF-8">
+<title>INTRO TO HTNL</title>
+<style>
+    body{
+    background-color: rgb(156, 221, 239);  
+    }
+
+    a{
+        color:rgb(16, 80, 15)
+    }
+
+    img{
+        display: block; 
+        margin: 20px auto;
+        width:600px;
+    }
+</style>
+ </head>
+<body>
+<h1>Intro to html</h1>
+<h2>The Walking Dead</h2>
+<p>The Walking Dead takes place after the onset of a worldwide zombie apocalypse. The zombies, referred to as "walkers",
+     shamble towards living humans and other creatures to eat them. They are attracted to noise and to scents, including the scent of humans.
+      Humans who are bitten or scratched by walkers die and become walkers themselves. Early in the series, it is suggested that, because any human
+       who dies will reanimate as a walker regardless of cause of death, all living humans carry a pathogen responsible for the mutation that turns humans into walkers.
+        No pathogen is ever confirmed, however. The mutation is activated after the death of the host. The only way to permanently kill a walker is to damage its brain or
+         to destroy the body entirely.</p>
+<hr>
+
+<h3>Character Names</h3>
+<p>Rick,Carl,Darly,Negan,Gleen,Maggie,Beth,Lori, and many more</p>
+
+<hr>
+
+<h4>Pets that are in the show</h4>
+
+<ul>
+    <li>Dog</li>
+    <li>Cat</li>
+    <li>Tiger</li>
+    <li>Birds</li>
+    <li>Spiders</li>
+</ul>
+<hr>
+<img src="R.jpeg" alt="The Walking Dead">
+<img src="OIP.webp" alt="The Walking Dead">
+<a href="https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)#Series_overview" target="_blank">TWD</a>
+</body>
+</html>
