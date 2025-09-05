@@ -1,4 +1,5 @@
-body {
+style {
+    body {
     background-color: #283618;
 }
 
@@ -35,7 +36,7 @@ nav a {
 
 nav a:hover {
     color: #dda15e;
-text-decoration:  none;
+text-decoration:  none
 
 }
 
@@ -49,4 +50,5 @@ footer {
     padding: 40px 0;
     text-align: center;
      border-top: 4px solid #bc6c25;
+}
 }
