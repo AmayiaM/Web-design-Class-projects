@@ -7,7 +7,7 @@ background-color:#bc6c25;
 width: 950px;
 margin:20px auto;
 border:4px solid #dda15e;
-padding: 2opx ;
+padding: 20px ;
 }
 
 header {
@@ -17,7 +17,7 @@ header {
 
 header h1 {
     color:#606c38 ;
-    font-size: 3opx;
+    font-size: 30px;
 }
 
 nav {
