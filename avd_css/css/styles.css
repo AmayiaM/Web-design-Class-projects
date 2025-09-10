@@ -1,5 +1,6 @@
 body {
     background-color: #780000;
+    color: #03045e;
 }
 
 img {
@@ -77,4 +78,33 @@ main h2 {
 
 .multi_col {
     display: flex;
+}
+
+aside, section{
+    padding: 20px;
+    margin: 20px;
+    border: 4px solid #669bbc;
+}
+section{
+    width: 75%;
+}
+
+aside{
+    width: 25%;
+}
+sectionimg {
+    border-radius: 10px;
+    border:2px solid #c1121f
+}
+
+.pic_style{
+    display: block;
+    margin: 20px;
+    width: 50%;
+}
+
+footer {
+    padding: 40px 0;
+    text-align: center;
+
 }
