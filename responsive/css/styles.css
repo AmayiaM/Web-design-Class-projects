@@ -75,7 +75,6 @@ footer{
 }
 
 /* tablet styles */
-
 @media (min-width:768) {
     nav{
        padding: 10px 0;
