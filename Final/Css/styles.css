@@ -158,6 +158,7 @@ nav li a {
     margin: 20px auto;
     background-color: #4a87d7;
 }
+}
 
 .galler {
     display: flex;
@@ -184,7 +185,7 @@ section {
 aside{
 width: 68%;
 }
-}
+
 header {
     background-repeat: no-repeat;
     background-size: cover;
