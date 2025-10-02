@@ -25,6 +25,23 @@ a {
 a:hover {
     text-decoration: none;
 }
+.multi_col {
+    display: flex;
+}
+
+section {
+    width: 70%;
+}
+
+aside{
+width: 68%;
+}
+
+header {
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 75px;
+}
 
 /* mobile styles */
 
@@ -172,22 +189,4 @@ nav li a {
 
 .col img {
     width: 100%;
-}
-
-.multi_col {
-    display: flex;
-}
-
-section {
-    width: 70%;
-}
-
-aside{
-width: 68%;
-}
-
-header {
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 75px;
 }
