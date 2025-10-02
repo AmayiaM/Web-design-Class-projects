@@ -5,5 +5,5 @@
 <li><a href="html5_css/index.html" target="_blank">HTML5 and intro to css</a></li>
 <li><a href="avd_css/index.html" target="_blank">Adv Css</a></li>
 <li><a href="responsive/index.html" target="_blank">Responsive</a></li>
-<li><a href="Fl/index.html" target="_blank">Final Project</a></li>
+<li><a href="Final/index.html" target="_blank">Final Project</a></li>
 </ul>
